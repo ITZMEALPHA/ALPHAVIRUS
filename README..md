@@ -3,8 +3,8 @@
 #(C)Copyright 2022
 
 tools to make viruses simple
-$ git clone https://github.com/LOoLzeC/Evil-create-framework.git
-$ cd Evil-create-framework
+$ git clone https://github.com/ITZMEALPHA/ALPHAVIRUS
+$ cd ALPHAVIRUS
 $ sh install.sh
 
 # Simple commands
