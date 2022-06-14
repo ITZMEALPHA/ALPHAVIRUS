@@ -9,7 +9,7 @@ echo "\033[31m(1) \033[1;34mkali linux/debian/other"
 echo "\033[31m(2) \033[1;34mtermux"
 echo "\033[31m(3)\033[1;34m gnuroot debian"
 echo "\033[31m(4)\033[1;34m pydroid? hmm"
-echo "\033[31m(0)\033[1;34m BYE BITCHH!!"
+echo "\033[31m(0)\033[1;34m BYE MYRA!!"
 echo
 echo "\033[1;37mChoose your distro \033[1;37m>"
 read choose
